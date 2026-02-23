@@ -3,9 +3,6 @@ As requested, here is a list of all the scripts I could make generic, and that a
 
 *Powershell-Cmdlet-Explorer* lists all installed modules, and by clicking on a module, you can see the cmdlets for that module. When you click on a cmdlet, you can see the help information for it.
 
-Screenshot:
-![cmdlet screenshot](https://raw.githubusercontent.com/JacFearsome/powershell-scripts/master/screenshots/cmdlet1.png)
-
 You can check each script's file for a description of what it does.
 
 That's it!  If you have any tips on how to improve these scripts, let me know!
